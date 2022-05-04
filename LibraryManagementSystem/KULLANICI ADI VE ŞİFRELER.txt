@@ -1,0 +1,3 @@
+kullnaıcı adı ve şifre:user1    deneme1
+                       user2    deneme2
+                       user3    deneme3

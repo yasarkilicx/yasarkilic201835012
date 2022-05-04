@@ -1,0 +1,11 @@
+c:\testpics\kütüphaneotomasyonu\LibraryManagementSystem.exe
+c:\testpics\kütüphaneotomasyonu\LibraryManagementSystem.dll
+c:\testpics\kütüphaneotomasyonu\LibraryManagementSystem.deps.json
+c:\testpics\kütüphaneotomasyonu\LibraryManagementSystem.runtimeconfig.json
+c:\testpics\kütüphaneotomasyonu\LibraryManagementSystem.pdb
+c:\testpics\kütüphaneotomasyonu\System.Data.SqlClient.dll
+c:\testpics\kütüphaneotomasyonu\runtimes\win-arm64\native\sni.dll
+c:\testpics\kütüphaneotomasyonu\runtimes\win-x64\native\sni.dll
+c:\testpics\kütüphaneotomasyonu\runtimes\win-x86\native\sni.dll
+c:\testpics\kütüphaneotomasyonu\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\testpics\kütüphaneotomasyonu\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
