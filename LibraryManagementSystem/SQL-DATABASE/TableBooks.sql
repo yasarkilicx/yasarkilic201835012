@@ -1,0 +1,11 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [ID]
+      ,[BookName]
+      ,[AuthorName]
+      ,[AuthorSurname]
+      ,[ISBN]
+      ,[Status]
+      ,[Borrower]
+      ,[BorrowingDate]
+      ,[BookTypeCode]
+  FROM [yk201835012].[dbo].[TableBooks]
